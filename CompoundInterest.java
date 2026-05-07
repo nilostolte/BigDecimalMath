@@ -1,6 +1,6 @@
 import java.math.*;
 
-class ComposedInterest {
+class CompoundInterest {
   public static void main(String args[]) {
     // compound interest for a capital of $1000 over 2 years at 3% a year interest rate
     BigDecimal year_rate = new BigDecimal("1.03");
